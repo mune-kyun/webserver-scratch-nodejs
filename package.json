@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "npx tsc --watch --outDir built --sourceMap"
+  },
+  "devDependencies": {
+    "@types/node": "^22.8.7",
+    "typescript": "^5.6.3"
+  }
+}
